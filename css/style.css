@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Fredoka', sans-serif;
     background-color: #fff;
@@ -29,12 +28,6 @@ header.p {
     margin-top: 3%;
 }
 /* Cards */
-
-.clearfix {
-    content:'';
-    clear: both;
-    display: table;
-}
 .cards {
     width: 30%;
     color: #fff;

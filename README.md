@@ -14,7 +14,7 @@
 
 ## *_Previews:_*
 
-![Preview](/previews/preview-float-cards.png)
+![Preview](/preview/preview-float-cards.png)
 
 --------
  
